@@ -57,7 +57,7 @@ public class CardTrick {
      * @author Cameron Wilson Jan 2023
      */
     private static void printInfo() {
-    
+        //I'm Done!
         System.out.println("Congratulations, you guessed right!");
         System.out.println("My name is Cameron, but you can call me Cam, Cameron or sir");
         System.out.println("My career ambitions:");
@@ -69,5 +69,4 @@ public class CardTrick {
         System.out.println("-- Watching TV");
         System.out.println("-- Drawing");
     }
-
 }
